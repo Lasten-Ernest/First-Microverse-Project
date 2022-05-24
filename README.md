@@ -1,6 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name:   First-Microverse-Project
+
+# Project Name:  First-Microverse-Project
+
 This project is about setting up linters in basic HTML and CSS files so as to run some tests on these files
 
 
@@ -8,6 +10,13 @@ This project is about setting up linters in basic HTML and CSS files so as to ru
 
 - HTML
 - CSS
+
+
+# To use this project, just clone it into your pc by using the following steps:
+- git clone (https://github.com/Lasten-Ernest/First-Microverse-Project/pull/1)
+- cd <Folder(First-Microverse-Project)
+- Open with Vscode if it is installed
+
 
 # To use this project, just clone it into your pc by using the following steps:
 - git clone (https://github.com/Lasten-Ernest/First-Microverse-Project/pull/1)
