@@ -1,60 +1,26 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-> Description the project.
+# Project Name:   Hello Microverse
+This project is about setting up linters in basic HTML and CSS files so as to run some tests on these files
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+# To use this project, just clone it into your pc by using the following steps:
+- git clone (https://github.com/Lasten-Ernest/Hello-World/pull/1)
+- cd <Folder(Hello-World)
+- Open with Vscode if it is installed
 
 ## Authors
 
-👤 **Author1**
+👤 **Ernest Lasten**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
+- GitHub: [@Lasten-Ernest](https://github.com/Lasten-Ernest)
+- Twitter: [@LastenErnest](https://twitter.com/LastenErnest)
+- LinkedIn: [ernestlasten](https://linkedin.com/in/ernestlasten)
 
 Feel free to check the [issues page](../../issues/).
 
